@@ -62,10 +62,8 @@
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-4887ba?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
-<a href="https://cocoapods.org" target="_blank"> <img src="https://img.shields.io/badge/cocoapods-fa2b01?style=for-the-badge&logo=cocoapods&logoColor=white" alt="cocoapods"/> </a>
 <a href="https://stackoverflow.com" target="_blank"> <img src="https://img.shields.io/badge/stackoverflow-f58023?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow"/> </a>
-<a href="https://github.com/ReactiveX/RxSwift" target="_blank"> <img src="https://img.shields.io/badge/RxSwift-ff4db3?style=for-the-badge&logo=RxSwift&logoColor=white" alt="RxSwift"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/firebase-fecc2f?style=for-the-badge&logo=firebase&logoColor=orange" alt="firebase"/> </a> 
+<a href="https://github.com/ReactiveX/RxSwift" target="_blank"> <img src="https://img.shields.io/badge/RxSwift-ff4db3?style=for-the-badge&logo=RxSwift&logoColor=white" alt="RxSwift"/> </a> 
 <a href="https://www.google.com" target="_blank"> <img src="https://img.shields.io/badge/Google-4286f5?style=for-the-badge&logo=Google&logoColor=white" alt="Google"/> </a> 
 <a href="https://www.canva.com/features/free-icons/" target="_blank"> <img src="https://img.shields.io/badge/Canva-5d4de3?&style=for-the-badge&logo=Canva&logoColor=white " alt="Canva"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-13c6c0?style=for-the-badge&logo=figma&logoColor=blue " alt="figma"/> </a>  
