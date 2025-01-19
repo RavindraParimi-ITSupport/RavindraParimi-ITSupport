@@ -24,7 +24,7 @@
 
 - 📫 Reach me via **ravindrababuparimi@gmail.com**
 
-- 📄 Wanna know more about my experiences, check out my [resume](https://github.com/RavindraParimi-ITSupport/Resume)
+- 📄 Wanna know more about my experiences, check out my [resume](https://drive.google.com/file/d/1N6_I2F6nuuD4vz2ZZIiSnQ7MeXRDqUPu/view?usp=sharing)
 
 - ⚡ Fun fact **I love Coffee** :coffee: [Buy Me a coffee](https://www.buymeacoffee.com/RavindraParimi-ITSupport)
 
