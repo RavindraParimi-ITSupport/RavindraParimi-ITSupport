@@ -1,33 +1,33 @@
 <a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+Ravindra Parimi+🤝.;I'm+an+IT+Support Engineer+⚡;I+love+building+amazing+apps+👨‍💻.">
   </a></h2></a>
   
-<h3 align="center">A passionate iOS developer from India</h3>
+<h3 align="center">A passionate IT Support Engineer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/ganeshrajugalla" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshrajugalla?logo=twitter&style=for-the-badge" alt="ganeshrajugalla" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ravindraparimi" target="blank"><img src="https://img.shields.io/twitter/follow/ravindraparimi?logo=twitter&style=for-the-badge" alt="ravindraparimi" /></a> </p>
 
 ### 👋 ![](https://komarev.com/ghpvc/?username=roynkem&color=268f77&label=Hey!!!+Visitor)
 
-- 🔭 I’m currently working At **TechAhead!**
+- 🔭 I’m currently working At **Bitla Software Pvt Ltd!**
 
-- 🌱 I’m currently learning **ARKit,Core ML,Core Data,Vapor,Combine,Realm**
+- 🌱 I’m currently learning **Firewall Configurations,Exsi Node Server Configurations,DHCP Server Cnfiguration,**
 
-- 👯 I’m looking to collaborate with **iOS Devs**
+- 👯 I’m looking to collaborate with **IT Support Engineer**
 
-- 🤝 I’m looking for help with **iOS Projects**
+- 🤝 I’m looking for help with **IT Support issues**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/GaneshRajuGalla)
+- 👨‍💻 All of my projects are available [here](https://github.com/RavindraParimi-ITSupport)
 
-- 📝 I regularly write articles in [medium](https://medium.com/@ganeshrajugalla)
+- 📝 I regularly write articles in [medium](https://medium.com/@RavindraParimi-ITSupport)
 
-- 💬 Ask me about **Swift, UIKit and SwiftUI**
+- 💬 Ask me about **Switch Configuration, Hardware truobleshoot and Open Source Software implementation**
 
-- 📫 Reach me via **ganeshrajugalla@gmail.com**
+- 📫 Reach me via **ravindrababuparimi@gmail.com**
 
-- 📄 Wanna know more about my experiences, check out my [resume](https://github.com/GaneshRajuGalla/Resume)
+- 📄 Wanna know more about my experiences, check out my [resume](https://github.com/RavindraParimi-ITSupport/Resume)
 
-- ⚡ Fun fact **I love Coffee** :coffee: [Buy Me a coffee](https://www.buymeacoffee.com/ganeshrajugalla)
+- ⚡ Fun fact **I love Coffee** :coffee: [Buy Me a coffee](https://www.buymeacoffee.com/RavindraParimi-ITSupport)
 
 <div align="center"> 
 <i>Random dev jokes for you my friend!</i></br></br>
@@ -36,20 +36,20 @@
 
 ### Connect with me  :coffee:
 <p align="center">
-<a href="https://twitter.com/ganeshrajugalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theroyaiyetin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ganeshrajugalla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roy aiyetin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15156897/ganesh-raju-galla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17664098" height="30" width="40" /></a>
+<a href="https://twitter.com/ravindraparimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theroyaiyetin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ravindraparimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roy aiyetin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15156897/ravindraparimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17664098" height="30" width="40" /></a>
 </p>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <a><h2>Stats ⚡</h2></a>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshrajugalla&layout=compact)](https://github.com/ganeshrajugalla/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindraparimi&layout=compact)](https://github.com/ravindraparimi-itsupport/github-readme-stats)
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganeshrajugalla&show_icons=true=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravindraparimi&show_icons=true=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ganeshrajugalla&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Roy's streak" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ravindraparimi&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Roy's streak" /></p>
   
   <p align="right">(<a href="#top">back to top</a>)</p>
 
