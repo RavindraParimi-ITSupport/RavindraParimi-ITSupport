@@ -1,4 +1,4 @@
-<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+Ravindra Parimi+🤝.;I'm+an+IT+Support Engineer👨‍💻.">
+<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+Ravindra Parimi+🤝.;I'm+an+IT+Support Engineer.">
   </a></h2></a>
   
 <h3 align="center">A passionate IT Support Engineer from India</h3>
